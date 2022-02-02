@@ -1,4 +1,3 @@
-# getlocationandip
 # 位置&IP获取网页小插件
 使用搜狐API  
 pv.sohu.com/cityjson?ie=utf-8
